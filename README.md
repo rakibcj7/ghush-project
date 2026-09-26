@@ -1,3 +1,7 @@
+Live link: rasuah.site 
+
+
+
 **Rasuah — Bribe Reporting Platform**
 
 Rasuah is a minimal, privacy-minded reporting platform built with Next.js and Prisma. It lets users submit public bribe reports and other users vote whether a report was helpful. The project is intended as a lightweight demo and admin/debug playground.
